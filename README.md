@@ -1,15 +1,13 @@
-# record-web
+## record-web
 
 基于WebRTC实现本地屏幕录制和下载
 
 
-## Project setup
+## project setup and start
 ```
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
 npm run start
 ```
+
 

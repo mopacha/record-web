@@ -10,4 +10,6 @@ npm install
 npm run start
 ```
 
+## 兼容性查看
 
+https://caniuse.com/?search=webRTC
